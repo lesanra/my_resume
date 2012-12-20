@@ -1,0 +1,15 @@
+#navbar:before, #navbar:after{
+	border-color: #274C00;
+	bottom:0;
+	border-width: 1.75em;	
+}
+#navbar:before {
+	 left: -2em;	
+	 border-left-color: transparent;
+}
+#navbar:after {
+	 right: -2em;
+	 border-right-color: transparent;
+}
+
+.ribbon:before, .ribbon:after {display:none;}
