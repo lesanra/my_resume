@@ -102,11 +102,11 @@ dd{margin-left:1em; margin-bottom:0.25em; color:#606060;}
 /* SELECTION COLOR*/
 
 
-#navbar ::selection {
-	background: #1A5C00; 
+::selection {
+	background: rgba(26, 92, 0, .5); 
 	}
-#navbar ::-moz-selection {
-	background: #1A5C00; 
+::-moz-selection {
+	background: rgba(26, 92, 0, .5); 
 }
 
 #main ::selection {
@@ -123,7 +123,7 @@ dd{margin-left:1em; margin-bottom:0.25em; color:#606060;}
 #main{margin-top:0.5em;
 	width:100%;
 	font-family: Cambria, Georgia, Times, serif;
-	padding-left:10%;
+	padding-left:12%;
 	margin-bottom:20px;
 }
 
