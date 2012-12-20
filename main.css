@@ -18,12 +18,12 @@ a:link, a:visited {color:inherit;
 
 ul {list-style: none; width:100%;}
 
-dt{color: #333;}
+dt{color: #222;}
 dd{margin-left:1em; margin-bottom:0.25em; color:#606060;}
 	
 #navbar {position: relative;
 	background: #1A5C00;
-	padding: 1em 2em; 
+	padding: 1em 0; 
 	margin: 1em auto 2em;
 	width:80%;	
 	font: Georgia, Times, serif; 
